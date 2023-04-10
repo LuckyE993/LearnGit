@@ -3,3 +3,4 @@ Git is free software: you can redistribute it and/or modify under the GPL.
 
 I just want to try git back.
 
+Git has a mutable index called stage.
